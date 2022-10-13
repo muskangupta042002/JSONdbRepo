@@ -1,12 +1,10 @@
-{
-  "bookings": [
-    {
-      "bookingId": 1001,
-      "buffetName": "ChineseSpecial",
-      "emailId": "muskangupa@gmail",
-      "plateCount": 1,
-      "bookedOn": "2022-10-25",
-      "message": "sucessfully registered"
-    }
-  ]
-}
+[
+  {
+    "bookingId": 1001,
+    "buffetName": "ChineseSpecial",
+    "emailId": "muskangupa@gmail",
+    "plateCount": 1,
+    "bookedOn": "2022-10-25",
+    "message": "sucessfully registered"
+  }
+]
